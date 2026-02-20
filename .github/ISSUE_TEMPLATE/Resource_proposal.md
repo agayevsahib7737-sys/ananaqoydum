@@ -1,4 +1,4 @@
----
+(/---
 name: New resource proposal
 about: If you have a new resource proposal that you think should be added to this resource module.
 ---
